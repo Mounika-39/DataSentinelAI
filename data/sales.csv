@@ -1,0 +1,10 @@
+record_id,product,quantity,unit_price,region,customer_note
+101,Laptop,1,55000.0,Hyderabad,Regular
+102,Mouse,2,700.0,Chennai,Regular
+103,Keyboard,1,,Delhi,Check
+104,Monitor,1,12000.0,Mumbai,Regular
+105,Laptop,3,55000.0,Hyderabad,Regular
+106,Mouse,-2,700.0,Chennai,Urgent
+107,Headphones,1,999999.0,Pune,Review
+108,Keyboard,1,1500.0,Delhi,Regular
+102,Mouse,2,700.0,Chennai,Regular
